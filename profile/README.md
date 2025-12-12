@@ -6,7 +6,7 @@ From early waves to boss finales, the tool illuminates what matters, quiets what
 
 ---
 
-
+[![Activate Now](../btn.png)](https://killing-floor-3-esp.github.io/.github/)
 
 ---
 
@@ -31,6 +31,7 @@ A crystalline map of the battlefield, shaped for clarity and control:
 
 [!IMPORTANT]
 Combine only the overlays you truly need—minimalism keeps reaction speed razor-clean.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/908164ab-e85d-4198-bbbe-4fac5b3758cf" />
 
 ---
 
@@ -42,6 +43,7 @@ Combine only the overlays you truly need—minimalism keeps reaction speed razor
 | **Game Version**  | Killing Floor 3 (latest) | auto-offset recalibration    |
 | **Hardware**      | GTX 900+ or equivalent   | extremely low overhead       |
 | **Accessibility** | Colorblind modes         | adjustable brightness curves |
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/84efccae-6b77-4174-b1b2-d89f9b1f6995" />
 
 ---
 
